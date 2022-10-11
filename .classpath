@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/webdriver/poi-bin-5.2.3/ooxml-lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/webdriver/poi-bin-5.2.3/ooxml-lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/webdriver/poi-bin-5.2.3/ooxml-lib/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="D:/webdriver/poi-bin-5.2.3/ooxml-lib/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/webdriver/poi-bin-5.2.3/ooxml-lib/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/webdriver/poi-bin-5.2.3/ooxml-lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/webdriver/poi-bin-5.2.3/ooxml-lib/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/New folder/selenium-server-4.4.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

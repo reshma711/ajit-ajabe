@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="22" passed="20" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-08T12:03:11 IST" name="SanitySuite" finished-at="2022-10-08T12:11:19 IST" duration-ms="488331">
+    <groups>
+    </groups>
+    <test started-at="2022-10-08T12:03:11 IST" name="firefoxtest" finished-at="2022-10-08T12:05:52 IST" duration-ms="161423">
+      <class name="com.saucedemo.testclasses.VerifyAllproduct">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.VerifyAllproduct@793be5ca]" started-at="2022-10-08T12:05:06 IST" name="setUp" finished-at="2022-10-08T12:05:18 IST" duration-ms="12393" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyAllproduct()[pri:2, instance:com.saucedemo.testclasses.VerifyAllproduct@793be5ca]" started-at="2022-10-08T12:05:18 IST" name="VerifyAllproduct" finished-at="2022-10-08T12:05:20 IST" duration-ms="1781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAllproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.VerifyAllproduct@793be5ca]" started-at="2022-10-08T12:05:20 IST" name="tearDown" finished-at="2022-10-08T12:05:21 IST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.VerifyAllproduct@793be5ca]" started-at="2022-10-08T12:05:21 IST" name="setUp" finished-at="2022-10-08T12:05:35 IST" duration-ms="14516" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyAllproduct()[pri:2, instance:com.saucedemo.testclasses.VerifyAllproduct@793be5ca]" started-at="2022-10-08T12:05:35 IST" name="VerifyAllproduct" finished-at="2022-10-08T12:05:37 IST" duration-ms="1651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAllproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.VerifyAllproduct@793be5ca]" started-at="2022-10-08T12:05:37 IST" name="tearDown" finished-at="2022-10-08T12:05:37 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.VerifyAllproduct -->
+      <class name="com.saucedemo.testclasses.VerifyFilter">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.VerifyFilter@2df9b86]" started-at="2022-10-08T12:05:37 IST" name="setUp" finished-at="2022-10-08T12:05:51 IST" duration-ms="13586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyFilter()[pri:0, instance:com.saucedemo.testclasses.VerifyFilter@2df9b86]" started-at="2022-10-08T12:05:51 IST" name="VerifyFilter" finished-at="2022-10-08T12:05:52 IST" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.VerifyFilter@2df9b86]" started-at="2022-10-08T12:05:52 IST" name="tearDown" finished-at="2022-10-08T12:05:52 IST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.VerifyFilter -->
+      <class name="com.saucedemo.testclasses.Loginfunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:03:32 IST" name="setUp" finished-at="2022-10-08T12:03:42 IST" duration-ms="10876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoutFunctionlity()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:03:42 IST" name="LogoutFunctionlity" finished-at="2022-10-08T12:03:43 IST" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFunctionlity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:03:43 IST" name="tearDown" finished-at="2022-10-08T12:03:43 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:03:43 IST" name="setUp" finished-at="2022-10-08T12:03:54 IST" duration-ms="10550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoutFunctionlity()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:03:54 IST" name="LogoutFunctionlity" finished-at="2022-10-08T12:03:54 IST" duration-ms="352" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-45HEKQS', ip: '192.168.43.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [ff3f1cf1-3ebb-47b4-808c-089745d8b122, clickElement {id=4022ef53-45f6-406f-a0ac-2819ea2f8072}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 105.0.2, moz:accessibilityChecks: false, moz:buildID: 20221003135607, moz:debuggerAddress: 127.0.0.1:61751, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16252, moz:profile: C:\Users\ajit1\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:61751/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on WINDOWS (ff3f1cf1-3ebb-47b4-808c-089745d8b122)] -> xpath: //a[@id='logout_sidebar_link']]
+Session ID: ff3f1cf1-3ebb-47b4-808c-089745d8b122]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-45HEKQS', ip: '192.168.43.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [ff3f1cf1-3ebb-47b4-808c-089745d8b122, clickElement {id=4022ef53-45f6-406f-a0ac-2819ea2f8072}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 105.0.2, moz:accessibilityChecks: false, moz:buildID: 20221003135607, moz:debuggerAddress: 127.0.0.1:61751, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16252, moz:profile: C:\Users\ajit1\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:61751/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on WINDOWS (ff3f1cf1-3ebb-47b4-808c-089745d8b122)] -> xpath: //a[@id='logout_sidebar_link']]
+Session ID: ff3f1cf1-3ebb-47b4-808c-089745d8b122
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at com.saucedemo.pomclasses.LOGOUTpomclass.method2(LOGOUTpomclass.java:21)
+at com.saucedemo.testclasses.Loginfunctionality.LogoutFunctionlity(Loginfunctionality.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFunctionlity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:03:54 IST" name="tearDown" finished-at="2022-10-08T12:03:55 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:03:55 IST" name="setUp" finished-at="2022-10-08T12:04:06 IST" duration-ms="11583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoutFunctionlity()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:04:06 IST" name="LogoutFunctionlity" finished-at="2022-10-08T12:04:07 IST" duration-ms="340" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-45HEKQS', ip: '192.168.43.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [f3d256c5-c16d-4bfb-abc3-ce4487f1529b, clickElement {id=9a6357de-1d7b-46ca-b1d8-bdfb1763f2d6}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 105.0.2, moz:accessibilityChecks: false, moz:buildID: 20221003135607, moz:debuggerAddress: 127.0.0.1:62289, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 23748, moz:profile: C:\Users\ajit1\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:62289/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on WINDOWS (f3d256c5-c16d-4bfb-abc3-ce4487f1529b)] -> xpath: //a[@id='logout_sidebar_link']]
+Session ID: f3d256c5-c16d-4bfb-abc3-ce4487f1529b]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: Element <a id="logout_sidebar_link" class="bm-item menu-item" href="#"> could not be scrolled into view
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'DESKTOP-45HEKQS', ip: '192.168.43.135', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [f3d256c5-c16d-4bfb-abc3-ce4487f1529b, clickElement {id=9a6357de-1d7b-46ca-b1d8-bdfb1763f2d6}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 105.0.2, moz:accessibilityChecks: false, moz:buildID: 20221003135607, moz:debuggerAddress: 127.0.0.1:62289, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 23748, moz:profile: C:\Users\ajit1\AppData\Loca..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://127.0.0.1:62289/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on WINDOWS (f3d256c5-c16d-4bfb-abc3-ce4487f1529b)] -> xpath: //a[@id='logout_sidebar_link']]
+Session ID: f3d256c5-c16d-4bfb-abc3-ce4487f1529b
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at jdk.proxy2/jdk.proxy2.$Proxy17.click(Unknown Source)
+at com.saucedemo.pomclasses.LOGOUTpomclass.method2(LOGOUTpomclass.java:21)
+at com.saucedemo.testclasses.Loginfunctionality.LogoutFunctionlity(Loginfunctionality.java:29)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFunctionlity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:04:07 IST" name="tearDown" finished-at="2022-10-08T12:04:07 IST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:04:07 IST" name="setUp" finished-at="2022-10-08T12:04:19 IST" duration-ms="11238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginFunctionality()[pri:1, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:04:19 IST" name="LoginFunctionality" finished-at="2022-10-08T12:04:19 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:04:19 IST" name="tearDown" finished-at="2022-10-08T12:04:19 IST" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:04:19 IST" name="setUp" finished-at="2022-10-08T12:04:31 IST" duration-ms="11908" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginFunctionality()[pri:1, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:04:31 IST" name="LoginFunctionality" finished-at="2022-10-08T12:04:31 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@446293d]" started-at="2022-10-08T12:04:31 IST" name="tearDown" finished-at="2022-10-08T12:04:31 IST" duration-ms="421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.Loginfunctionality -->
+      <class name="com.saucedemo.testclasses.CheckoutFunctionlity">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.CheckoutFunctionlity@212b5695]" started-at="2022-10-08T12:03:11 IST" name="setUp" finished-at="2022-10-08T12:03:30 IST" duration-ms="19547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CheckoutFunctionality()[pri:0, instance:com.saucedemo.testclasses.CheckoutFunctionlity@212b5695]" started-at="2022-10-08T12:03:30 IST" name="CheckoutFunctionality" finished-at="2022-10-08T12:03:31 IST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.CheckoutFunctionlity@212b5695]" started-at="2022-10-08T12:03:31 IST" name="tearDown" finished-at="2022-10-08T12:03:32 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.CheckoutFunctionlity -->
+      <class name="com.saucedemo.testclasses.AddToCart">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.AddToCart@69997e9d]" started-at="2022-10-08T12:04:31 IST" name="setUp" finished-at="2022-10-08T12:04:47 IST" duration-ms="15434" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddToCart()[pri:1, instance:com.saucedemo.testclasses.AddToCart@69997e9d]" started-at="2022-10-08T12:04:47 IST" name="AddToCart" finished-at="2022-10-08T12:04:48 IST" duration-ms="1047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.AddToCart@69997e9d]" started-at="2022-10-08T12:04:48 IST" name="tearDown" finished-at="2022-10-08T12:04:51 IST" duration-ms="2725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.AddToCart@69997e9d]" started-at="2022-10-08T12:04:51 IST" name="setUp" finished-at="2022-10-08T12:05:04 IST" duration-ms="13757" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddToCart()[pri:1, instance:com.saucedemo.testclasses.AddToCart@69997e9d]" started-at="2022-10-08T12:05:04 IST" name="AddToCart" finished-at="2022-10-08T12:05:06 IST" duration-ms="1198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.AddToCart@69997e9d]" started-at="2022-10-08T12:05:06 IST" name="tearDown" finished-at="2022-10-08T12:05:06 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.AddToCart -->
+    </test> <!-- firefoxtest -->
+    <test started-at="2022-10-08T12:05:52 IST" name="chrometest" finished-at="2022-10-08T12:11:19 IST" duration-ms="326763">
+      <class name="com.saucedemo.testclasses.VerifyAllproduct">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.VerifyAllproduct@7fee8714]" started-at="2022-10-08T12:08:57 IST" name="setUp" finished-at="2022-10-08T12:09:49 IST" duration-ms="51842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyAllproduct()[pri:2, instance:com.saucedemo.testclasses.VerifyAllproduct@7fee8714]" started-at="2022-10-08T12:09:49 IST" name="VerifyAllproduct" finished-at="2022-10-08T12:09:51 IST" duration-ms="1635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAllproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.VerifyAllproduct@7fee8714]" started-at="2022-10-08T12:09:51 IST" name="tearDown" finished-at="2022-10-08T12:09:51 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.VerifyAllproduct@7fee8714]" started-at="2022-10-08T12:09:51 IST" name="setUp" finished-at="2022-10-08T12:10:19 IST" duration-ms="27674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyAllproduct()[pri:2, instance:com.saucedemo.testclasses.VerifyAllproduct@7fee8714]" started-at="2022-10-08T12:10:19 IST" name="VerifyAllproduct" finished-at="2022-10-08T12:10:20 IST" duration-ms="1500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAllproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.VerifyAllproduct@7fee8714]" started-at="2022-10-08T12:10:20 IST" name="tearDown" finished-at="2022-10-08T12:10:30 IST" duration-ms="9794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.VerifyAllproduct -->
+      <class name="com.saucedemo.testclasses.VerifyFilter">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.VerifyFilter@4229bb3f]" started-at="2022-10-08T12:10:30 IST" name="setUp" finished-at="2022-10-08T12:11:18 IST" duration-ms="48118" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyFilter()[pri:0, instance:com.saucedemo.testclasses.VerifyFilter@4229bb3f]" started-at="2022-10-08T12:11:18 IST" name="VerifyFilter" finished-at="2022-10-08T12:11:19 IST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.VerifyFilter@4229bb3f]" started-at="2022-10-08T12:11:19 IST" name="tearDown" finished-at="2022-10-08T12:11:19 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.VerifyFilter -->
+      <class name="com.saucedemo.testclasses.Loginfunctionality">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:06:24 IST" name="setUp" finished-at="2022-10-08T12:06:32 IST" duration-ms="7719" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoutFunctionlity()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:06:32 IST" name="LogoutFunctionlity" finished-at="2022-10-08T12:06:32 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFunctionlity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:06:32 IST" name="tearDown" finished-at="2022-10-08T12:06:33 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:06:33 IST" name="setUp" finished-at="2022-10-08T12:06:55 IST" duration-ms="22106" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoutFunctionlity()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:06:55 IST" name="LogoutFunctionlity" finished-at="2022-10-08T12:06:55 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFunctionlity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:06:55 IST" name="tearDown" finished-at="2022-10-08T12:06:56 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:06:56 IST" name="setUp" finished-at="2022-10-08T12:07:19 IST" duration-ms="22841" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoutFunctionlity()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:07:19 IST" name="LogoutFunctionlity" finished-at="2022-10-08T12:07:19 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFunctionlity -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:07:19 IST" name="tearDown" finished-at="2022-10-08T12:07:20 IST" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:07:20 IST" name="setUp" finished-at="2022-10-08T12:07:43 IST" duration-ms="22875" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginFunctionality()[pri:1, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:07:43 IST" name="LoginFunctionality" finished-at="2022-10-08T12:07:43 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:07:43 IST" name="tearDown" finished-at="2022-10-08T12:07:43 IST" duration-ms="472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:07:43 IST" name="setUp" finished-at="2022-10-08T12:08:12 IST" duration-ms="28250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginFunctionality()[pri:1, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:08:12 IST" name="LoginFunctionality" finished-at="2022-10-08T12:08:12 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.Loginfunctionality@f736069]" started-at="2022-10-08T12:08:12 IST" name="tearDown" finished-at="2022-10-08T12:08:12 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.Loginfunctionality -->
+      <class name="com.saucedemo.testclasses.CheckoutFunctionlity">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.CheckoutFunctionlity@73e22a3d]" started-at="2022-10-08T12:05:52 IST" name="setUp" finished-at="2022-10-08T12:06:22 IST" duration-ms="29796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CheckoutFunctionality()[pri:0, instance:com.saucedemo.testclasses.CheckoutFunctionlity@73e22a3d]" started-at="2022-10-08T12:06:22 IST" name="CheckoutFunctionality" finished-at="2022-10-08T12:06:23 IST" duration-ms="848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.CheckoutFunctionlity@73e22a3d]" started-at="2022-10-08T12:06:23 IST" name="tearDown" finished-at="2022-10-08T12:06:24 IST" duration-ms="845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.CheckoutFunctionlity -->
+      <class name="com.saucedemo.testclasses.AddToCart">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.AddToCart@6da21078]" started-at="2022-10-08T12:08:12 IST" name="setUp" finished-at="2022-10-08T12:08:29 IST" duration-ms="17490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddToCart()[pri:1, instance:com.saucedemo.testclasses.AddToCart@6da21078]" started-at="2022-10-08T12:08:29 IST" name="AddToCart" finished-at="2022-10-08T12:08:30 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.AddToCart@6da21078]" started-at="2022-10-08T12:08:30 IST" name="tearDown" finished-at="2022-10-08T12:08:30 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.saucedemo.testclasses.AddToCart@6da21078]" started-at="2022-10-08T12:08:30 IST" name="setUp" finished-at="2022-10-08T12:08:56 IST" duration-ms="26312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AddToCart()[pri:1, instance:com.saucedemo.testclasses.AddToCart@6da21078]" started-at="2022-10-08T12:08:56 IST" name="AddToCart" finished-at="2022-10-08T12:08:57 IST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.saucedemo.testclasses.AddToCart@6da21078]" started-at="2022-10-08T12:08:57 IST" name="tearDown" finished-at="2022-10-08T12:08:57 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.saucedemo.testclasses.AddToCart -->
+    </test> <!-- chrometest -->
+  </suite> <!-- SanitySuite -->
+</testng-results>
